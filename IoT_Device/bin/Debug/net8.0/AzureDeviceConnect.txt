@@ -1,0 +1,1 @@
+HostName=UL-zajecia-azure.azure-devices.net;DeviceId=Device1;SharedAccessKey=rkfdKp82RTyYFNxPlwXT9Li6J9QFJZ0ladT9gKtI6Kw=
